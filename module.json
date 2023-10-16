@@ -4,7 +4,8 @@
   "version": "1.0.3",
   "compatibility": {
     "minimum": "11",
-    "verified": "11.311"
+    "verified": "11.311",
+    "maximum": "11"
   },
   "relationships": {
     "recommends": [
